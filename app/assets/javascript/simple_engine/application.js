@@ -1,4 +1,3 @@
-//= require ./MyComponent
 
 console.log("Simple Engine Version:", simpleEngineVersion);
 
