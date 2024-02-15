@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple engine</title>
+  <%= csrf_meta_tags %>
+  <%= csp_meta_tag %>
+  <%= javascript_include_tag 'application', 'data-turbo-track': 'reload' %>
+
+  <%= stylesheet_link_tag "simple_engine/application", media: "all" %>
+</head>
+<body>
+
+<%= yield %>
+
+</body>
+</html>
