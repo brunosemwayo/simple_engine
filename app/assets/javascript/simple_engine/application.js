@@ -1,4 +1,3 @@
+console.log("Hello from Simple engine test ");
 
-console.log("Simple Engine Version:", simpleEngineVersion);
 
-console.log("Hello from Simple engine");
