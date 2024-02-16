@@ -1,3 +1,3 @@
-console.log("Hello from Simple engine test ");
+console.log("Hello from Simple engine version 6 ");
 
 
